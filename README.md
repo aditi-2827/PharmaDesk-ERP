@@ -316,26 +316,6 @@ Copy `.env.example` to `.env` and fill in the values:
 
 ---
 
-## License
-
-MIT
-
----
-## Other Projects
-
-This repository primarily demonstrates backend architecture, business logic, inventory workflows, GST-compliant billing, batch management, and pharmacy operations.
-
-The focus of PharmaDesk ERP was building a practical system that solves real operational problems rather than creating a visually flashy interface.
-
-For projects with a stronger focus on frontend engineering, motion design, animations, and interactive user experiences, see:
-
-### Interactive Vodka Brand Experience
-
-Advanced frontend project focused on motion design, immersive scrolling experiences, animation systems, and creative web interactions.
-
-Repository:
-[vodka-brand-experience](https://github.com/ishaanpadashetty/vodka-brand-experience)
-
 
 ## Project Focus
 
